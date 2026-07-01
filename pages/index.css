@@ -56,7 +56,7 @@
   margin-left: 80px;
 }
 
-.header__title--highlight {
+.header__title-accent {
   font-family: "Noto Serif";
   font-style: italic;
   font-weight: normal;
@@ -131,7 +131,7 @@
   color: white;
 }
 
-.recipes__sub-title {
+.recipes__sub__title {
   position: relative;
   max-width: 438px;
   margin-left: 80px;
