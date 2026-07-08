@@ -41,6 +41,8 @@
   color: #fff;
   border: none;
   width: 100%;
+  opacity: 1;
+  transition: opacity 0.3 ease;
 }
 
 .form__label_type_checkbox {
@@ -51,4 +53,8 @@
   margin-top: 32px;
   font-size: 16px;
   line-height: 20px;
+}
+
+.form__button:hover {
+  opacity: 0.7;
 }
