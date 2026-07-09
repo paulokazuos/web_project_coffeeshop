@@ -58,3 +58,7 @@
   margin-top: auto;
   align-items: center;
 }
+
+.header__paragraph {
+  margin: 0;
+}
