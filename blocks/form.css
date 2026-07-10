@@ -28,6 +28,8 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .form__button {
@@ -42,7 +44,7 @@
   border: none;
   width: 100%;
   opacity: 1;
-  transition: opacity 0.3 ease;
+  transition: opacity 0.3s ease;
 }
 
 .form__label_type_checkbox {

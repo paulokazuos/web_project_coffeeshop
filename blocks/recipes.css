@@ -1,12 +1,11 @@
 .recipes {
   display: flex;
   flex-direction: column;
-  height: 100vh;
-  min-height: 720px;
-  max-height: 800px;
-  position: relative;
   box-sizing: border-box;
   padding: 100px 80px 215px;
+  background-color: #0a2750;
+  background-image: url(../images/background_recipes.svg);
+  background-size: cover;
 }
 
 .recipes__title {
